@@ -1,0 +1,129 @@
+body{
+	background-color: #2E538A;
+	margin-top:0px;
+	margin-bottom: 0px;
+}
+
+#wrapper{
+	background-color: #DBDB94;
+	height: 1500px;
+	width: 80%;
+	margin-left: 10%;
+}
+
+#header{
+	background-color: ime;
+	position:relative;
+	width:800px;
+	height:auto;
+	margin-left: 10%;
+	margin-right: 10%;
+	padding-top: 20px;
+	padding-bottom: 0px;
+
+}
+
+#header h1{
+	position:relative;
+	width:80%;
+	margin-left: 10%;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	font-size: 70px;
+	color: white;
+	text-align: center;
+	
+}
+
+#content{
+	background-color:lime;
+	height: 1000px;
+}
+
+#shell{
+    background-color: #ABC247;
+	height: 600px;	
+}
+
+.top img{
+	position: absolute;
+	width:78.5%;
+}
+.top h1{
+	text-align: center;
+	font-size: 17px;
+	margin-top:0px;
+	padding-top: 100px;
+}
+#shell img{
+    position:relative;
+	width:30%;
+	margin-left: 35%;
+	margin-top: 100px;
+	padding-bottom: 30px;
+
+}
+
+#shell h1{
+	color: white;
+	text-align: center;
+	font-family:"American Typewriter";
+	font-weight:lighter;
+}
+
+#conch{
+	background-color: #8fbf99;
+	height: 600px;
+}
+
+#conch img{
+    position:relative;
+	width:30%;
+	margin-left: 35%;
+	margin-top: 100px;
+	padding-bottom: 30px;
+
+}
+
+#conch h1{
+	color: white;
+	text-align: center;
+}
+
+#conch3{
+	background-color: #C66853;
+	height: 600px;
+}
+
+#conch3 img{
+    position:relative;
+	width:30%;
+	margin-left: 35%;
+	margin-top: 100px;
+	padding-bottom: 30px;
+
+}
+
+#conch3 h1{
+	color: white;
+	text-align: center;
+}
+
+#conch4{
+	background-color: #AFE4D0;
+	height: 600px;
+}
+
+#conch4 img{
+    position:relative;
+	width:30%;
+	margin-left: 35%;
+	margin-top: 100px;
+	padding-bottom: 30px;
+
+}
+
+#conch4 h1{
+	color: white;
+	text-align: center;
+}
