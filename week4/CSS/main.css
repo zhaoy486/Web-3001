@@ -1,0 +1,81 @@
+#topleft{
+	background-color: #256020;
+	height: 100px;
+	width: 100px;
+	margin-left: 40%;
+	margin-top: 13%;
+	position: absolute;
+	font-size: 10px;
+}
+#topright{
+	background-color: #3B6B24;
+	height: 100px;
+	width: 100px;
+	margin-left: 50%;
+	margin-top: 13%;
+    position: absolute;
+    float:left;
+    font-size: 10px;
+}
+#bottomleft{
+	background-color: #568A2E;
+	height: 100px;
+	width: 100px;
+	margin-left: 40%;
+	margin-top: 23%;
+    position: absolute;
+    font-size: 10px;
+  
+}
+#bottomright{
+	background-color: #9ECF6E;
+	height: 100px;
+	width: 100px;
+	margin-left: 50%;
+	margin-top: 23%;
+    position: absolute;
+    font-size: 10px;
+}
+#topleftlarge{
+	background-color: #256020;
+	width:250px;
+	height: 250px;
+    margin-left: 27%;
+	margin-top: 0.5%;
+	position: absolute;
+	font-size: 10px;
+
+}
+#toprightlarge{
+	background-color: #3B6B24;
+	height: 250px;
+	width: 250px;
+	margin-left: 50%;
+	margin-top: 0.5%;
+    position: absolute;
+    float:left;
+    font-size: 10px;
+}
+#bottomleftlarge{
+	background-color: #568A2E;
+	height: 250px;
+	width: 250px;
+	margin-left: 27%;
+	margin-top: 23%;
+    position: absolute;
+    font-size: 10px;
+}
+#bottomrightlarge{
+	background-color:#9ECF6E;
+	height: 250px;
+	width: 250px;
+	margin-left: 50%;
+	margin-top: 23%;
+    position: absolute;
+    font-size: 10px;
+}
+.seconddiv{
+	background-color: hotpink;
+	height: 600px;
+	width: 800px;
+}

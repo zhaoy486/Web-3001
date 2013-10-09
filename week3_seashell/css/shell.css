@@ -127,3 +127,34 @@ body{
 	color: white;
 	text-align: center;
 }
+
+
+@media screen and (max-width: 1000px){
+	#header h1{
+		position:relative;
+		
+	    width:400px;
+	    margin-left: 30px;
+	    margin-top: 10px;
+	    margin-bottom: 30px;
+	    font-size: 60px;
+	    color: white;
+	    text-align: center;
+	}
+
+}
+
+@media screen and (max-width: 700px){
+	#header h1{
+		position:relative;
+		
+	    width:300px;
+	    margin-left: 50px;
+	    margin-top: 10px;
+	    margin-bottom: 30px;
+	    font-size: 45px;
+	    color: white;
+	    text-align: center;
+	}
+
+}
