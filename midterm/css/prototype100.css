@@ -1,0 +1,16 @@
+body{background:black;}
+
+canvas{
+	margin-left: 30%;
+	margin-top:20%;
+	background-image: radial-gradient(center center, circle cover, #ffd305, #000);
+            background-image: -o-radial-gradient(center center, circle cover, #ffd305, #000);
+            background-image: -ms-radial-gradient(center center, circle cover, #ffd305, #000);
+            background-image: -moz-radial-gradient(center center, circle cover, #ffd305, #000);
+            background-image: -webkit-radial-gradient(center center, circle cover, #ffd305, #000);
+}
+img{
+	position:absolute;
+	margin-left: 29.9%;
+	margin-top: 19.9%;
+}

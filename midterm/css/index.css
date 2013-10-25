@@ -1,0 +1,64 @@
+body{background:white;
+    height: 3000px;
+    width: 3200px;
+}
+
+div{
+	height:1000px;
+}
+#ten {
+	position:absolute;
+	margin-left: 29.9%;
+
+}
+#ten img{
+	position: absolute;
+    margin-left: 29.9%;
+
+}
+#ten p{
+	position: absolute;
+	font-size: 200px;
+	margin-top: 330px;
+	margin-left: 300px;
+}
+
+#hundred{
+	position:absolute;
+	margin-left: 29.9%;
+	margin-top: 1000px;
+
+
+}
+#hundred img{
+	position: absolute;
+    margin-left: 29.9%;
+
+}
+#hundred p{
+	position: absolute;
+	font-size: 300px;
+	text-align: center;
+	margin-left: 200px;
+
+}
+#fourhundred{
+	position:absolute;
+	margin-left: 29.9%;
+	margin-top: 2000px;
+}
+#fourhundred img{
+	position: absolute;
+    margin-left: 29.9%;
+    
+
+
+}
+#fourhundred p{
+    position: absolute;
+	font-size: 400px;
+	margin-left: 20px;
+	text-align: center;
+
+	
+}
